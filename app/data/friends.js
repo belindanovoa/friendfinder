@@ -19,16 +19,16 @@ json {
 }
 
 {
-    "name": "",
+    "name": "Michael Scott",
     "photo": "",
-    "scores": [, , , , , , , , ,
+    "scores": [5, 5, 5, 5, 5, 5, 5, 5, 5,
     ]
 }
 
 {
-    "name": "",
-    "photo": "",
-    "scores": [, , , , , , , , ,
+    "name": "Toby Flenderson",
+    "photo": "https://vignette.wikia.nocookie.net/theoffice/images/5/55/2009TobyCropped.PNG/revision/latest/scale-to-width-down/2000?cb=20170701082913",
+    "scores": [5, 1, 4, 4, 5, 1, 2, 5, 4, 1
     ]
 }
 
